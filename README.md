@@ -8,6 +8,7 @@ My main focus is on:
 - *Excel*: analysis, pivot tables, and reporting  
 - *Power BI*: building interactive dashboards and tracking KPIs  
 - *Tableau*: creating powerful and easy-to-understand visualizations  
+-  🤖 Future Focus - Machine Learning: Planning to learn practical ML models (e.g., Regression, Classification) to enhance data analysis and predictive insights
 
 🔭 Currently working on my first projects with Power BI and Tableau.  
 📫 Reach me at: (mohamedrooney20045@gmail.com).  
@@ -16,7 +17,7 @@ My main focus is on:
 
 ### 🚀 Featured Projects
 - *first-data-project* — My first hands-on Power BI dashboard.  
-- More Tableau, SQL, and Excel projects coming soon 👨‍💻  
+- Coming Soon: Working on projects focusing on Customer Segmentation (SQL), Financial Trend Analysis (Tableau/Power BI), and eventually, exploring Predictive Modeling (Python/ML) 👨‍💻  
 
 ---
 
