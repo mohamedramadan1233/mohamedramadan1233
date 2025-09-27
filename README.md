@@ -16,7 +16,8 @@ My main focus is on:
 ---
 
 ### 🚀 Featured Projects
-- *first-data-project* — My first hands-on Power BI dashboard.  
+
+-  *Pizza Sales Report (SQL & Power BI):* End-to-end project focused on optimizing sales strategy and identifying best-selling menu items  
 - Coming Soon: Working on projects focusing on Customer Segmentation (SQL), Financial Trend Analysis (Tableau/Power BI), and eventually, exploring Predictive Modeling (Python/ML) 👨‍💻  
 
 ---
